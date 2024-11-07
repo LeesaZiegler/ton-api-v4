@@ -767,14 +767,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ton/core@npm:^0.56.2":
-  version: 0.56.2
-  resolution: "@ton/core@npm:0.56.2"
+"@ton/core@npm:^0.59.0":
+  version: 0.59.0
+  resolution: "@ton/core@npm:0.59.0"
   dependencies:
     symbol.inspect: 1.0.1
   peerDependencies:
     "@ton/crypto": ">=3.2.0"
-  checksum: 5fcbe447042850d75107879a7f336d93e7ba25ebd21c1f17c67bb30897b6ee36bef0cd02123c2f85a468cc267065881082bda5b977567a0c2026913fa51dc255
+  checksum: 29099d3bb87ad548bf69689ab0b4167e5275747597850577ba961c3c0b8cd5a15e8eadfa3540726ae5eff8453fc2b79c468138208e24b3eabd19b80a03845384
   languageName: node
   linkType: hard
 
@@ -2294,7 +2294,7 @@ __metadata:
 
 "fsevents@patch:fsevents@^2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -4182,7 +4182,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>":
   version: 1.22.4
-  resolution: "resolve@patch:resolve@npm%3A1.22.4#~builtin<compat/resolve>::version=1.22.4&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.4#~builtin<compat/resolve>::version=1.22.4&hash=07638b"
   dependencies:
     is-core-module: ^2.13.0
     path-parse: ^1.0.7
@@ -4712,7 +4712,7 @@ __metadata:
   dependencies:
     "@fastify/cors": ^7.0.0
     "@fastify/websocket": ^5.0.0
-    "@ton/core": ^0.56.2
+    "@ton/core": ^0.59.0
     "@ton/crypto": ^3.2.0
     "@ton/sandbox": ^0.11.0
     "@ton/ton": ^13.11.1
@@ -4865,11 +4865,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.4.2#~builtin<compat/typescript>":
   version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=23ec76"
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: ab417a2f398380c90a6cf5a5f74badd17866adf57f1165617d6a551f059c3ba0a3e4da0d147b3ac5681db9ac76a303c5876394b13b3de75fdd5b1eaa06181c9d
+  checksum: 2eee5c37cad4390385db5db5a8e81470e42e8f1401b0358d7390095d6f681b410f2c4a0c496c6ff9ebd775423c7785cdace7bcdad76c7bee283df3d9718c0f20
   languageName: node
   linkType: hard
 
